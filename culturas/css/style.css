@@ -31,9 +31,9 @@ body {
 /* Nav Bar */
 .nav-bar {
     background-color: #b84141;
-    padding: 1em;
+    padding: 2em;
     text-align: center;
-    position: fixed;
+    
 }
 nav a:hover {
     background-color: rgb(72, 77, 153);
