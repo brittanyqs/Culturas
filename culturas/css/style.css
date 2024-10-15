@@ -30,6 +30,7 @@ body {
 
 /* Nav Bar */
 .nav-bar {
+    position: fixed;
     background-color: #b84141;
     padding: 2em;
     text-align: center;
